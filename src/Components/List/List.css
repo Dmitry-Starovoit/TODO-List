@@ -1,0 +1,73 @@
+.title{
+    color: rgb(89, 89, 89);
+    text-align: center;
+    font-size: 18px;
+}
+
+.lines{
+    color: rgb(89, 89, 89);
+    margin: 15px auto;
+}
+
+.lines li{
+    padding: 0 5px;
+    margin: 5px auto;
+    list-style: none;
+    font-size: 15px;
+    border-bottom: 1px solid rgb(134, 134, 134);
+}
+
+.list{
+    margin-top: 30px;
+    background-color: rgb(248, 248, 248);
+    width: 300px;
+    height: 250px;
+    font-size: 15px;
+    border: 15px solid rgb(248, 248, 248);
+    border-radius: 20px;
+}
+
+input{
+    
+    border-radius: 2.5px;
+    border: solid 1px rgb(134, 134, 134);
+    background-color: rgb(248, 248, 248);
+}
+
+input[type="text"] {
+    padding: 0 5px;
+    height: 34px;
+    color: black;
+    width: 226px;
+}
+
+input[type="checkbox"] {
+    margin-right: 7.5px;
+    background-color: #002B4E;
+    color: black;
+}
+
+button{
+    padding: 5px 10px;
+    margin-left: 10px;
+    background-color: #3e72c7;
+    color: rgb(248, 248, 248);
+    border: solid 2px #3566b6;
+    border-radius: 2.5px;
+    font-size: 15px;
+}
+
+.viev_statictic{
+    margin-top: 20px;
+    margin-left: -5px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+::marker{
+    color: rgb(0, 196, 200);
+}
+
+
+
